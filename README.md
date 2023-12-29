@@ -1,0 +1,1 @@
+Nous avons voulu mettre notre argumentaire dans ce fichier ***README.md***. Mais puisque nos explicationn contiennent beaucoup de captures d'ecran, nous avons cree un fichier word ***README.docx*** dans lequel nous avons mis toutes nos explications pour une meilleure lisibilite de notre argumentaire. Et nous esperons que vous allez nous comprendre!
